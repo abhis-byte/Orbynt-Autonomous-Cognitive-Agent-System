@@ -1,4 +1,4 @@
-**Orbnyt: Autonomous Cognitive Agent System**
+**Orbynt: Autonomous Cognitive Agent System**
 ===
 _Advanced Multi-Agent Pipeline for Web-Grounded Research, Knowledge Extraction, and Analytical Reporting_
 ===
@@ -233,3 +233,4 @@ Due to Kaggle’s execution environment and deployment limitations, the front-en
 
 Orbnyt delivers a complete 8-stage autonomous research pipeline, combining workflow validation, hybrid RAG, structured extraction, numeric analytics, knowledge graphs, and enterprise-grade reporting.  
 Its transparent, deterministic architecture makes it well-suited for high-stakes evaluation scenarios requiring reliability and interpretability.
+
